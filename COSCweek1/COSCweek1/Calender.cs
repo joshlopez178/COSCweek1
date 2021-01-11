@@ -30,6 +30,7 @@ namespace COSCweek1
             Console.WriteLine("The number of days in a week is", daysInWeek);
             Console.ReadKey();
 
+
         }
 
 
